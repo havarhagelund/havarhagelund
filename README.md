@@ -1,16 +1,11 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm Håvar.</h2>
+<p align="center">
+  <a href="https://blog.havar.dev">Blog</a> •
+  <a href="https://www.linkedin.com/in/havarhagelund">LinkedIn</a>
+</p>
 
-<!--
-**havarhagelund/havarhagelund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m working at [Frend](https://frend.no) developing tools for SMBs in Norway.
+- 🌱 On the side, I’m currently developing a project management tool for mid-sized construction companies. Read about [how I learn new tools while building](https://blog.havar.dev/app).
+- 🤔 Always learning! Currently interested in change management and Kotlin development.
+  
+- 📫 Hit me up at [LinkedIn](https://www.linkedin.com/in/havarhagelund) or shoot me an [email](mailto:havar@hagelund.me)
