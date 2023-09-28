@@ -13,3 +13,6 @@
 Passionate backend developer with a master's degree in Computer Science from NTNU.
 In the past, I have worked with product management, digital business development, and as an advisor for MSBs.
 -->
+
+
+![havarhagelund](havarhagelund.jpeg)
