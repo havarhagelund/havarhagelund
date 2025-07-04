@@ -3,13 +3,15 @@ I'm a full-stack developer with a master's in Computer Science from NTNU, and a 
 
 Outside of work, you’ll most likely find me chasing fresh air in the mountains, making pizza with friends, or learning something new just for the fun of it.
 
-- 👷🏻‍♂️ I work at [Frend Digital](https://frend.no) developing tools for SMBs in Norway.
-- 🌱 On the side, I'm developing a project management tool for small-sized construction companies. Check it out [tillow.io](https://tillow.io) and read about how i'm building it [here](https://havar.dev/tillow).
-- 🤔 Always learning! Currently interested in change management and Kotlin development. Read more about my interests at my [site](https://.havar.dev).
-  
-- 📫 Hit me up at [LinkedIn](https://www.linkedin.com/in/havarhagelund) or shoot me an [email](mailto:havar@hagelund.me)
+👷🏻‍♂️ I work at [Frend Digital](https://frend.no) developing tools for SMBs in Norway.
 
-- 🔧 Java/Kotlin, Spring/Micronaut, C#/.NET, Go, React/Next.js, AWS, Azure, and lots more
+🌱 On the side, I'm developing a project management tool for small-sized construction companies. Check it out [tillow.io](https://tillow.io) and read about how i'm building it [here](https://havar.dev/tillow).
+
+🤔 Always learning! Currently interested in change management and Kotlin development. Read more about my interests at my [site](https://.havar.dev).
+  
+📫 Hit me up at [LinkedIn](https://www.linkedin.com/in/havarhagelund) or shoot me an [email](mailto:havar@hagelund.me)
+
+🔧 Java/Kotlin, Spring/Micronaut, C#/.NET, Go, React/Next.js, AWS, Azure, and lots more
 
 
 ![havarhagelund](havarhagelund.jpeg)
