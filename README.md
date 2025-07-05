@@ -5,9 +5,9 @@ Outside of work, you’ll most likely find me chasing fresh air in the mountains
 
 👷🏻‍♂️ I work at [Frend Digital](https://frend.no) developing tools for SMBs in Norway.
 
-🌱 On the side, I'm developing a project management tool for small-sized construction companies. Check it out [tillow.io](https://tillow.io) and read about how i'm building it [here](https://havar.dev/tillow).
+🌱 On the side, I'm developing a project management tool for small-sized construction companies. Check it out [tillow.io](https://tillow.io) and read about how i'm building it [here](https://havar.dev/projects/tillow).
 
-🤔 Always learning! Currently interested in change management and Kotlin development. Read more about my interests at my [site](https://.havar.dev).
+🤔 Always learning! Currently interested in change management and Kotlin development. Read more about my interests at my [site](https://havar.dev).
   
 📫 Hit me up at [LinkedIn](https://www.linkedin.com/in/havarhagelund) or shoot me an [email](mailto:havar@hagelund.me)
 
